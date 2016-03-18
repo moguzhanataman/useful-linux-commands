@@ -1,0 +1,8 @@
+# -h human readable
+# -s summarize
+# -c produce grand total
+du -h file
+
+# -l list
+# -h human readable
+ls -lh file
